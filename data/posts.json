@@ -1,3 +1,4 @@
-{
-    "1467390356291": "This is my very first blog post!"
+function (error, file) {
+	
+   console.log(file);
 }
